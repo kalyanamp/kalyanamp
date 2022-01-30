@@ -2,8 +2,7 @@
 <h3 align="center">A passionate SRE/DevOps/Cloud(AWS)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalyanamp&label=Profile%20views&color=0e75b6&style=flat" alt="kalyanamp" /> 
-
-<p align="right"> <a href="https://twitter.com/mpkalyan" target="blank"><img src="https://img.shields.io/twitter/follow/mpkalyan?logo=twitter&style=for-the-badge" alt="mpkalyan" /></a> </p> </p>
+<a href="https://twitter.com/mpkalyan" target="blank"><img src="https://img.shields.io/twitter/follow/mpkalyan?logo=twitter&style=for-the-badge" alt="mpkalyan" /></a> </p>
 
 <h3 align="left">Devops CI/CD:</h3>
 
